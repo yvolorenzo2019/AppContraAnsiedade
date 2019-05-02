@@ -26,7 +26,7 @@ function idioma(){
       txt = 0;
     }
 }
-var trocaFundo = 0;
+/*var trocaFundo = 0;
 
 function bodyBack(){
   if(trocaFundo == 0){
@@ -45,4 +45,4 @@ function bodyBack(){
     document.getElementById("body").style.backgroundImage = url ("IMG/body4.png");
     trocaFundo = 0;
   }
-}
+}*/
