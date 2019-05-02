@@ -13,3 +13,43 @@ h1{
 nav{
   background: black;
 }
+.botoes{
+  background-color: rgba(77, 0, 157, 0.2);
+  height: 90px;
+  margin-left: 15%;
+  margin-top: 130%;
+  outline: none;
+  border: none;
+  border-radius: 60px;
+}
+.botoes img{
+  height: 90px;
+  left: 0;
+}
+.botoesz{
+  background-color: rgba(77, 0, 157, 0.2);
+  height: 90px;
+  margin-left: 40%;
+  margin-top: 130%;
+  outline: none;
+  border: none;
+  border-radius: 60px;
+}
+.botoesz img{
+  height: 90px;
+  left: 0;
+}
+.botoescora{
+  background-color: rgba(77, 0, 157, 0.2);
+  height: 90px;
+  margin-left: 70%;
+  margin-top: 130%;
+  outline: none;
+  border: none;
+  border-radius: 60px;
+}
+.botoescora img{
+  height: 90px;
+  left: 0;
+}
+
